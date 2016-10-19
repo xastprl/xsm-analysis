@@ -1,0 +1,3 @@
+ff=gfortran -c
+cc=gcc -c
+ccc=g++ 
